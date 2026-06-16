@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0F16,50:1A1F2B,100:00B38A&height=220&section=header&text=Hi%20👋,%20I'm%20YOUR_NAME&fontSize=42&fontColor=00FFC2&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React%20•%20Next.js%20•%20Django%20•%20Java&descAlignY=58&descSize=16" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0F16,50:1A1F2B,100:00B38A&height=220&section=header&text=Hi%20👋,%20I'm%20Steven Maged&fontSize=42&fontColor=00FFC2&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React%20•%20Next.js%20•%20Django%20•%20Java&descAlignY=58&descSize=16" 
     alt="Header"
   />
 </p>
@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/7Thunder7">
     <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-0D0F16?style=for-the-badge&logo=github&logoColor=E6E6E6&labelColor=1A1F2B" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/steven-maged-96342639b?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-00B38A?style=for-the-badge&logo=linkedin&logoColor=0D0F16&labelColor=00FFC2" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:stevenmaged2018@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-1A1F2B?style=for-the-badge&logo=gmail&logoColor=00FFC2&labelColor=0D0F16" />
   </a>
 </p>
@@ -89,13 +89,13 @@ I'm a passionate **Full Stack Developer** focused on building clean, responsive,
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <a href="PROJECT_LINK_1">
-        <img src="PROJECT_IMAGE_1" width="100%" alt="Project 1 Preview" />
+      <a href="nivirra.com">
+        <img src="[PROJECT_IMAGE_1](https://bucket.sck.guru/steven/Screenshot%202026-06-16%20212511.png)" width="100%" alt="nivirra" />
       </a>
       <br />
       <br />
-      <a href="PROJECT_LINK_1">
-        <strong>Project Name 1</strong>
+      <a href="nivirra.com">
+        <strong>Nivirra</strong>
       </a>
       <br />
       <br />
