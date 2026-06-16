@@ -273,7 +273,7 @@ I'm a passionate **Full Stack Developer** focused on building clean, responsive,
 <br />
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -342,5 +342,6 @@ Project Card Template:
   <a href="REPOSITORY_LINK">
     <img src="https://img.shields.io/badge/Repo-1A1F2B?style=for-the-badge&logo=github&logoColor=00FFC2" alt="Repository" />
   </a>
+  -->
 </td>
 
