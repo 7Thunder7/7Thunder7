@@ -90,8 +90,13 @@ I'm a passionate **Full Stack Developer** focused on building clean, responsive,
   <tr>
     <td width="33%" valign="top" align="center">
       <a href="https://nivirra.com">
-        <img src="https://bucket.sck.guru/steven/Screenshot%202026-06-16%20212511.png" width="100%" alt="Nivirra Preview" />
+        <br />
+        <br />
+        <br />
+        <img src="https://bucket.sck.guru/SCK%20Website/Imgs/StrayCodes/nivirra_mockup.png" width="100%" alt="Nivirra Preview" />
       </a>
+      <br />
+      <br />
       <br />
       <br />
       <a href="https://nivirra.com">
@@ -99,83 +104,168 @@ I'm a passionate **Full Stack Developer** focused on building clean, responsive,
       </a>
       <br />
       <br />
+      <br />
       <sub>
-        A modern responsive web application with a clean interface, smooth user experience, and production-ready design.
+        A full-stack tourism platform built for a travel company to showcase trips, manage tour details, and handle customer booking requests through a smooth and responsive experience.
       </sub>
       <br />
       <br />
-      <img src="https://img.shields.io/badge/React-0D0F16?style=flat-square&logo=react&logoColor=00FFC2" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-1A1F2B?style=flat-square&logo=nextdotjs&logoColor=E6E6E6" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Tailwind-00B38A?style=flat-square&logo=tailwindcss&logoColor=0D0F16" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Full_Stack-00FFC2?style=flat-square&logo=stackshare&logoColor=0D0F16" alt="Full Stack" />
+      <img src="https://img.shields.io/badge/Next.js-0D0F16?style=flat-square&logo=nextdotjs&logoColor=E6E6E6" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-00B38A?style=flat-square&logo=typescript&logoColor=0D0F16" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Tailwind-1A1F2B?style=flat-square&logo=tailwindcss&logoColor=00FFC2" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Django-0D0F16?style=flat-square&logo=django&logoColor=00FFC2" alt="Django" />
+      <img src="https://img.shields.io/badge/REST_API-00B38A?style=flat-square&logo=fastapi&logoColor=0D0F16" alt="REST API" />
       <br />
       <br />
       <a href="https://nivirra.com">
         <img src="https://img.shields.io/badge/Live_Demo-00FFC2?style=for-the-badge&logo=vercel&logoColor=0D0F16" alt="Live Demo" />
       </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Repo-1A1F2B?style=for-the-badge&logo=github&logoColor=00FFC2" alt="Repository" />
-      </a>
+      <img src="https://img.shields.io/badge/Private_Repo-1A1F2B?style=for-the-badge&logo=github&logoColor=00FFC2" alt="Private Repository" />
     </td>
 
 
 <td width="33%" valign="top" align="center">
-  <a href="#">
-    <img src="https://dummyimage.com/900x500/1A1F2B/00FFC2.png&text=Project+2" width="100%" alt="Project 2 Preview" />
+  <a href="https://ahmedmegaly.sck.guru">
+    <img src="https://bucket.sck.guru/SCK%20Website/Imgs/StrayCodes/Ahmed%20Megaly.png" width="100%" alt="Ahmed Megaly Platform Preview" />
+  </a>
+
+  <br />
+  <a href="https://ahmedmegaly.sck.guru">
+    <strong>Ahmed Megaly</strong>
   </a>
   <br />
-  <br />
-  <a href="#">
-    <strong>Project Name 2</strong>
-  </a>
   <br />
   <br />
   <sub>
-    Add a short description for your project here. Explain the problem it solves and the main features.
+    An educational physics learning platform designed for Mr. Ahmed Megaly, providing students with structured content, an accessible interface, and a scalable digital learning experience.
   </sub>
   <br />
   <br />
-  <img src="https://img.shields.io/badge/Python-0D0F16?style=flat-square&logo=python&logoColor=00FFC2" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-1A1F2B?style=flat-square&logo=django&logoColor=00FFC2" alt="Django" />
+  <img src="https://img.shields.io/badge/Full_Stack-00FFC2?style=flat-square&logo=stackshare&logoColor=0D0F16" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Next.js-0D0F16?style=flat-square&logo=nextdotjs&logoColor=E6E6E6" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-00B38A?style=flat-square&logo=typescript&logoColor=0D0F16" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind-1A1F2B?style=flat-square&logo=tailwindcss&logoColor=00FFC2" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Django-0D0F16?style=flat-square&logo=django&logoColor=00FFC2" alt="Django" />
   <img src="https://img.shields.io/badge/REST_API-00B38A?style=flat-square&logo=fastapi&logoColor=0D0F16" alt="REST API" />
   <br />
   <br />
-  <a href="#">
+  <a href="https://ahmedmegaly.sck.guru">
     <img src="https://img.shields.io/badge/Live_Demo-00FFC2?style=for-the-badge&logo=vercel&logoColor=0D0F16" alt="Live Demo" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Repo-1A1F2B?style=for-the-badge&logo=github&logoColor=00FFC2" alt="Repository" />
-  </a>
+  <img src="https://img.shields.io/badge/Private_Repo-1A1F2B?style=for-the-badge&logo=github&logoColor=00FFC2" alt="Private Repository" />
 </td>
 
 <td width="33%" valign="top" align="center">
-  <a href="#">
-    <img src="https://dummyimage.com/900x500/1A1F2B/00FFC2.png&text=Project+3" width="100%" alt="Project 3 Preview" />
+  <a href="https://elmoarekh.sck.guru">
+    <img src="https://bucket.sck.guru/SCK%20Website/Imgs/StrayCodes/elmoarekh.png" width="100%" alt="Elmoarekh Platform Preview" />
+  </a>
+
+  <br />
+  <a href="https://elmoarekh.sck.guru">
+    <strong>Elmoarekh</strong>
   </a>
   <br />
   <br />
-  <a href="#">
-    <strong>Project Name 3</strong>
+  <br />
+  <sub>
+    A full-stack educational platform for history and geography learning, built for Mr. Abanoub to deliver organized content and a smooth online learning experience for students.
+  </sub>
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/Full_Stack-00FFC2?style=flat-square&logo=stackshare&logoColor=0D0F16" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Next.js-0D0F16?style=flat-square&logo=nextdotjs&logoColor=E6E6E6" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-00B38A?style=flat-square&logo=typescript&logoColor=0D0F16" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind-1A1F2B?style=flat-square&logo=tailwindcss&logoColor=00FFC2" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Django-0D0F16?style=flat-square&logo=django&logoColor=00FFC2" alt="Django" />
+  <img src="https://img.shields.io/badge/REST_API-00B38A?style=flat-square&logo=fastapi&logoColor=0D0F16" alt="REST API" />
+  <br />
+  <br />
+  <a href="https://elmoarekh.sck.guru">
+    <img src="https://img.shields.io/badge/Live_Demo-00FFC2?style=for-the-badge&logo=vercel&logoColor=0D0F16" alt="Live Demo" />
+  </a>
+  <img src="https://img.shields.io/badge/Private_Repo-1A1F2B?style=for-the-badge&logo=github&logoColor=00FFC2" alt="Private Repository" />
+</td>
+
+
+  </tr>
+
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://bucket.sck.guru/SCK%20Website/Imgs/StrayCodes/Camp%20Elrezeqy.png">
+        <img src="https://bucket.sck.guru/SCK%20Website/Imgs/StrayCodes/Camp%20Elrezeqy.png" width="100%" alt="Camp Elrezeqy Preview" />
+      </a>
+      <br />
+      <br />
+      <a href="https://bucket.sck.guru/SCK%20Website/Imgs/StrayCodes/Camp%20Elrezeqy.png">
+        <strong>Camp Elrezeqy</strong>
+      </a>
+      <br />
+      <br />
+      <sub>
+        A desktop inventory and accounting management system built for Camp Elrezeqy Hotel to organize warehouse operations, track stock, and support financial workflows.
+      </sub>
+      <br />
+      <br />
+      <img src="https://img.shields.io/badge/Desktop_App-00FFC2?style=flat-square&logo=windowsterminal&logoColor=0D0F16" alt="Desktop App" />
+      <img src="https://img.shields.io/badge/Java-0D0F16?style=flat-square&logo=openjdk&logoColor=00FFC2" alt="Java" />
+      <img src="https://img.shields.io/badge/Java_Swing-1A1F2B?style=flat-square&logo=java&logoColor=00FFC2" alt="Java Swing" />
+      <br />
+      <br />
+      <img src="https://img.shields.io/badge/Desktop_Project-00FFC2?style=for-the-badge&logo=openjdk&logoColor=0D0F16" alt="Desktop Project" />
+      <img src="https://img.shields.io/badge/Private_Repo-1A1F2B?style=for-the-badge&logo=github&logoColor=00FFC2" alt="Private Repository" />
+    </td>
+
+
+<td width="33%" valign="top" align="center">
+  <a href="https://bucket.sck.guru/SCK%20Website/Imgs/StrayCodes/ELT%20international.png">
+    <img src="https://bucket.sck.guru/SCK%20Website/Imgs/StrayCodes/ELT%20international.png" width="100%" alt="ELT International Preview" />
+  </a>
+  <br />
+  <br />
+  <a href="https://bucket.sck.guru/SCK%20Website/Imgs/StrayCodes/ELT%20international.png">
+    <strong>ELT International</strong>
   </a>
   <br />
   <br />
   <sub>
-    Add a short description for your desktop application, main features, and technologies used.
+    A desktop management system for ELT International Travel Company, designed to manage accounts, organize company operations, and schedule tourism trips efficiently.
   </sub>
   <br />
   <br />
+  <img src="https://img.shields.io/badge/Desktop_App-00FFC2?style=flat-square&logo=windowsterminal&logoColor=0D0F16" alt="Desktop App" />
   <img src="https://img.shields.io/badge/Java-0D0F16?style=flat-square&logo=openjdk&logoColor=00FFC2" alt="Java" />
   <img src="https://img.shields.io/badge/JavaFX-1A1F2B?style=flat-square&logo=java&logoColor=00FFC2" alt="JavaFX" />
-  <img src="https://img.shields.io/badge/Swing-00B38A?style=flat-square&logo=java&logoColor=0D0F16" alt="Swing" />
   <br />
   <br />
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live_Demo-00FFC2?style=for-the-badge&logo=vercel&logoColor=0D0F16" alt="Live Demo" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Repo-1A1F2B?style=for-the-badge&logo=github&logoColor=00FFC2" alt="Repository" />
-  </a>
+  <img src="https://img.shields.io/badge/Desktop_Project-00FFC2?style=for-the-badge&logo=openjdk&logoColor=0D0F16" alt="Desktop Project" />
+  <img src="https://img.shields.io/badge/Private_Repo-1A1F2B?style=for-the-badge&logo=github&logoColor=00FFC2" alt="Private Repository" />
 </td>
 
+<td width="33%" valign="top" align="center">
+  <a href="https://bucket.sck.guru/SCK%20Website/Imgs/StrayCodes/Orthopedic_Clinic.png">
+    <img src="https://bucket.sck.guru/SCK%20Website/Imgs/StrayCodes/Orthopedic_Clinic.png" width="100%" alt="Orthopedic Clinic Preview" />
+  </a>
+  <br />
+  <br />
+  <a href="https://bucket.sck.guru/SCK%20Website/Imgs/StrayCodes/Orthopedic_Clinic.png">
+    <strong>Orthopedic Clinic</strong>
+  </a>
+  <br />
+  <br />
+  <sub>
+    A desktop clinic management application for an orthopedic doctor, featuring both medical and administrative modules to manage patient data and daily clinic operations.
+  </sub>
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/Desktop_App-00FFC2?style=flat-square&logo=windowsterminal&logoColor=0D0F16" alt="Desktop App" />
+  <img src="https://img.shields.io/badge/Java-0D0F16?style=flat-square&logo=openjdk&logoColor=00FFC2" alt="Java" />
+  <img src="https://img.shields.io/badge/Java_Swing-1A1F2B?style=flat-square&logo=java&logoColor=00FFC2" alt="Java Swing" />
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/Desktop_Project-00FFC2?style=for-the-badge&logo=openjdk&logoColor=0D0F16" alt="Desktop Project" />
+  <img src="https://img.shields.io/badge/Private_Repo-1A1F2B?style=for-the-badge&logo=github&logoColor=00FFC2" alt="Private Repository" />
+</td>
 
   </tr>
 </table>
@@ -224,8 +314,7 @@ I'm a passionate **Full Stack Developer** focused on building clean, responsive,
     alt="Footer"
   />
 </p>
-
-
+ 
 Project Card Template:
 
 <td width="33%" valign="top" align="center">
